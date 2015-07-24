@@ -1,3 +1,5 @@
+%%This is a test to see if making changes are detected by Git
+
 function J = computeCostMulti(X, y, theta)
 %COMPUTECOSTMULTI Compute cost for linear regression with multiple variables
 %   J = COMPUTECOSTMULTI(X, y, theta) computes the cost of using theta as the
